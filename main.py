@@ -126,10 +126,11 @@ def attack4():
     send(i/load)
     send(j/load)
 
-attack0()
-attack1()
-attack2()
-attack3()
-attack4()
+for i in range(0,2):
+    attack0()
+    attack1()
+    attack2()
+    attack3()
+    attack4()
 
 print("Done")
