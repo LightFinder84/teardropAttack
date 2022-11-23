@@ -66,7 +66,7 @@ $ sudo python main.py [target IP]
 ```
 
 
-Made with :heart: by <a href="https://github.com/LightFinder84" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/LightFinder84" target="_blank">Trường Phạm</a>
 
 &#xa0;
 
